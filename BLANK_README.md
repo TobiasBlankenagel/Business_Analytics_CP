@@ -48,7 +48,7 @@ The project uses football match results and league data, which are processed and
 
 ### Key Files
 - `football_results-3.csv`: Contains historical match results.
-- `new_league_data.csv`: Includes additional league data for enhanced analysis.
+- `new_league_data.csv`: Includes additional league data displayed interactively on the website.
 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for details.
