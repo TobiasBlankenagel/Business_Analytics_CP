@@ -49,5 +49,5 @@ The project uses football match results and league data, which are processed and
 
 ### Key Files
 - `football_results.csv`: Contains historical match results.
-- `new_league_data.csv`: Includes additional league data displayed interactively on the website.
+- `new_league_data.csv`: Includes additional league data displayed interactively on the website. Contains example data just to demonstrate the layout and the functionality of the website.
 
