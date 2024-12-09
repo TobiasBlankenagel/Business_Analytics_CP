@@ -10,8 +10,8 @@ This project is a comprehensive analytics platform designed to process and visua
 - **Web Application**: A Streamlit-based web app for interactive user experiences.
 
 ## Files
-- **Jupyter Notebook**: The notebook contains 86 cells, primarily used for data exploration.
-- **Python Script**: A 607-line script designed for deploying the interactive web application.
+- **Jupyter Notebook**: The notebook is used for data exploration.
+- **Python Script**: The python script powers an interactive web application, available at the website: https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app
 
 ## Dependencies
 The following libraries are required for this project:
@@ -38,6 +38,7 @@ pip install -r requirements.txt
    ```bash
    streamlit run app_v4_final.py
    ```
+3. Or just open https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app
 
 ### Using the Jupyter Notebook
 1. Open the notebook file in Jupyter Notebook or JupyterLab.
@@ -47,6 +48,6 @@ pip install -r requirements.txt
 The project uses football match results and league data, which are processed and analyzed within the notebook and the web app.
 
 ### Key Files
-- `football_results-3.csv`: Contains historical match results.
+- `football_results.csv`: Contains historical match results.
 - `new_league_data.csv`: Includes additional league data displayed interactively on the website.
 
