@@ -50,10 +50,3 @@ The project uses football match results and league data, which are processed and
 - `football_results-3.csv`: Contains historical match results.
 - `new_league_data.csv`: Includes additional league data displayed interactively on the website.
 
-## License
-Distributed under the MIT License. See `LICENSE.txt` for details.
-
-## Author
-Provide author details here.
-
-For more information, visit the [project repository](https://github.com/github_username/Business_Analytics_CP).
