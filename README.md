@@ -10,7 +10,7 @@ This project is a comprehensive analytics platform designed to process and visua
 - **Web Application**: A Streamlit-based web app for interactive user experiences.
 
 ## Files
-- **Jupyter Notebook**: The notebook is used for data exploration.
+- **Jupyter Notebook**: The notebook is used for data exploration and model training.
 - **Python Script**: The python script powers an interactive web application, available at the website: https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app
 
 ## Dependencies
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 3. Or just open https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app
 
 ### Using the Jupyter Notebook
-1. Open the notebook file in Jupyter Notebook or JupyterLab.
+1. Open the notebook file "main.ipynb" in Jupyter Notebook or JupyterLab.
 2. Execute cells interactively to explore data.
 
 ## Dataset Details
