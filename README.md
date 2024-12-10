@@ -10,8 +10,9 @@ This project is a comprehensive analytics platform designed to process and visua
 - **Web Application**: A Streamlit-based web app for interactive user experiences.
 
 ## Files
-- **Jupyter Notebook**: The notebook is used for data exploration and model training.
-- **Python Script**: The python script powers an interactive web application, available at the website: https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app
+- **Data Folder**: This folder contains scripts for data preprocessing, gathering, and web scraping to obtain the relevant data for our model.
+- **Model Folder**: This folder includes the exploratory analysis and the scripts used to train the model based on the collected data.
+- **Website Folder**: This folder holds the code for the final website, which integrates the model with user inputs to predict stadium attendance. It serves as the final interface and the culmination of our work. The Python script in this folder powers an interactive web application, accessible at: https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app.
 
 ## Dependencies
 The following libraries are required for this project:
