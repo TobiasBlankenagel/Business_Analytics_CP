@@ -48,7 +48,17 @@ pip install -r requirements.txt
 ## Dataset Details
 The project uses football match results and league data, which are processed and analyzed within the notebook and the web app.
 
-### Key Files
+### CSV Files
 - `football_results.csv`: Contains historical match results.
 - `new_league_data.csv`: Includes additional league data displayed interactively on the website. Contains example data just to demonstrate the layout and the functionality of the website.
+- `SwissGDP.csv`: Contains GDP data for Switzerland.
+- `SwissHoliday.csv`: Includes a list of Swiss public holidays.
+- `transfermarkt_data_with_competitions_and_weather_complete.csv`: Comprehensive dataset combining football competition data with weather conditions for enhanced match analysis.
 
+### IPYNB Files
+- `Web_Scraping.ipynb`: Scrapes data from websites for further use.
+- `Data_Cleaning.ipynb`: Cleans and preprocesses raw data for analysis.
+- `Group_project.ipynb`: Explores the data and trains models as the main part of the group project.
+
+### PY Files
+- `app_v4_final.py`: Implements the final version of the website application.
